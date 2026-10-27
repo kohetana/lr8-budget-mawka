@@ -1,0 +1,4 @@
+.obsidian/workspace*.json
+.env
+.env.*
+.secret
